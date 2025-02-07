@@ -8,6 +8,9 @@ public class Lab_85_string_heap_area {
         String s4 = "Pythonpoint"; // Here no new place will be created for Pythonpoint. Exsisitng will be assinged again.
         System.out.println(s1);
         System.out.println(s2);
+        System.out.println(s3==s4); // this will be true becuase both the location reference will be same.
+        System.out.println(s1==s3); // this will be false becuase this in different location
+        System.out.println(s1.equals(s2)); // This will checks the content
 
     }
 }
