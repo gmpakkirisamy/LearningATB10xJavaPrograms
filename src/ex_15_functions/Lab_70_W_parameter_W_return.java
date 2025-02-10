@@ -9,6 +9,8 @@ public class Lab_70_W_parameter_W_return {
         int d = sum_three(3,3,4);
            System.out.println(d);
             }
+
+
     static int sum_two(int a, int b) {
         return a+b;
     }

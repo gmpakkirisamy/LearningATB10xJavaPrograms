@@ -2,7 +2,7 @@ package ex_17_Jan31st_excercise;
 
 import java.util.Scanner;
 
-public class ND_Lab_83_visa_validation {
+public class Lab_83_visa_validation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
