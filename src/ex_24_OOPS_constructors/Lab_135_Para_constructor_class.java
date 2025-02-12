@@ -1,4 +1,4 @@
-package ex_23_OOPS_constructors;
+package ex_24_OOPS_constructors;
 
 public class Lab_135_Para_constructor_class {
     String name;

@@ -17,7 +17,7 @@ public class Lab_140_java_basics {
 //        3) explain in detail about the all data type?
 //
 //        1. Primitive Data Type
-//        a. byte 8  bit integer
+//        a. byte 8 bit integer
 //        b. short 16 bit integer
 //        c. int 32 bit integer
 //        d. long 64 bit integer

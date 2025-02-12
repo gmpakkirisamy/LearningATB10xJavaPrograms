@@ -1,4 +1,4 @@
-package ex_23_OOPS_constructors;
+package ex_24_OOPS_constructors;
 
 public class Lab_132_Constructors_2_example {
     public static void main(String[] args) {

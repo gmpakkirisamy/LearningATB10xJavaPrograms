@@ -1,11 +1,12 @@
 package ex_21_Arrays;
 
-public class Lab_121_array_sort {
+public class Lab_141_second_smallest_array {
     public static void main(String[] args) {
         int[] arr = {98, 56, 12, 89, 41, 56, 11};
         bubbleSort(arr);
         for (int i : arr) {
             System.out.print(i + " ");
+
         }
     }
 
@@ -18,8 +19,13 @@ public class Lab_121_array_sort {
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
+
                 }
+
             }
+
         }
+        System.out.println(arr[1]); // Printing the second smallest number
+
     }
 }

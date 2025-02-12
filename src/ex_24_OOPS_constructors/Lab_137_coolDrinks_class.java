@@ -1,4 +1,4 @@
-package ex_23_OOPS_constructors;
+package ex_24_OOPS_constructors;
 
 public class Lab_137_coolDrinks_class {
     String dname;
