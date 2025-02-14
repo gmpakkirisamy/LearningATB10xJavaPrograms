@@ -1,4 +1,4 @@
-package ex_25_SelfExcersice;
+package ex_25_Array_SelfExcersice;
 
 public class Lab_146_convert_string_array {
     public static void main(String[] args) {

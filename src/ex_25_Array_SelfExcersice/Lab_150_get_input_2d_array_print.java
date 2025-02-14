@@ -1,6 +1,5 @@
-package ex_25_SelfExcersice;
+package ex_25_Array_SelfExcersice;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Lab_150_get_input_2d_array_print {

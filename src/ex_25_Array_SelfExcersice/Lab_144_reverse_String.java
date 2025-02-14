@@ -1,4 +1,4 @@
-package ex_25_SelfExcersice;
+package ex_25_Array_SelfExcersice;
 
 public class Lab_144_reverse_String {
     public static void main(String[] args) {
