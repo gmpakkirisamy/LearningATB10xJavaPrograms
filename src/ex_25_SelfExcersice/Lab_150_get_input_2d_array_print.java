@@ -16,6 +16,7 @@ public class Lab_150_get_input_2d_array_print {
 
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < col; j++) {
+
                 array[i][j] = sc.nextInt();
 
             }
@@ -27,8 +28,16 @@ public class Lab_150_get_input_2d_array_print {
                 System.out.print(array[i][j] + "\t");
 
             }
-            System.out.println();
+            if (col == 1) {
+
+            }
+            else
+            {
+                System.out.println();
+            }
 
         }
+        sc.close();
     }
+
 }
