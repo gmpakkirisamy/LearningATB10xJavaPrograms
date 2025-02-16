@@ -6,7 +6,7 @@ public class Lab_133_Car_class {
     int year;
 
     Lab_133_Car_class() {
-        //Setting the default value for the variables
+        //Setting the default value for the variables. This is default constructor.
         name ="Name Not Defined";
         colour = "colour YTD";
         year = 0000;

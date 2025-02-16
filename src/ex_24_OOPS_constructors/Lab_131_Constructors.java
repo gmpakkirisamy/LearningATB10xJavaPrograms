@@ -21,11 +21,11 @@ class baby {
     baby() {
         System.out.println("Am called.........");
         //Constructors - It is the special method which is invoked automatically at the time of object creation
-        //Once the object is created immediately. Name will be created after the object is creted.
+        //Once the object is created immediately. Name will be created after the object is created.
         //This should not have any access modifier to be typed like void/private/public
         //Constructor name should be same as the method and should not have return type - THis is condition.
         //And this will be automatically called when the object is created.
-        // IIB block also will be called when object initialization, we can use if it required otherwise its not needed.
+        // IIB block also will be called when object initialization, we can use if it required otherwise it's not needed.
 
         //Two Types:
         //Default Constructor

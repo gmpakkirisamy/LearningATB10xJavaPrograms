@@ -34,7 +34,7 @@ public class Lab_138_coolDrinks_main {
         System.out.println("Enter the color of cool drinks: ");
         String dcolor2 = sc.next();
 
-        Lab_137_coolDrinks_class pepsi = new Lab_137_coolDrinks_class(dname1,dml1,dcolor1);
+        Lab_137_coolDrinks_class pepsi = new Lab_137_coolDrinks_class(dname2,dml2,dcolor2);
         System.out.println(pepsi.dname);
         System.out.println(pepsi.ml);
         System.out.println(pepsi.color);

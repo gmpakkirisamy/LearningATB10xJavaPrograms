@@ -6,7 +6,7 @@ public class Lab_129_call_class_example {
         Lab_128_class_example samy = new Lab_128_class_example();
         Lab_128_class_example dev = new Lab_128_class_example();
 
-        samy.name = "Love";
+        samy.name = "Man";
         samy.age = 5;
         samy.gender = "Male";
         samy.salary = 100;
