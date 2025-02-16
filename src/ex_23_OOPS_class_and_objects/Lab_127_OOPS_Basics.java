@@ -27,5 +27,8 @@ public class Lab_127_OOPS_Basics {
                         //This should not have any access modifier to be typed like void/private/public
                         //Constructor name should be same as the method and should not have return type - This is condition.
                         //And this will be automatically called when the object is created.
+
+        //Instance Variable - Is a type of variable that is defined in a class and is specified to each instance of that class. They are created when an
+        //object is created and destroyed when the object is destroyed.
     }
 }
