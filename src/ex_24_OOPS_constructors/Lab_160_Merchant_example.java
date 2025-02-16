@@ -1,9 +1,9 @@
 package ex_24_OOPS_constructors;
 
 public class Lab_160_Merchant_example {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Main Method
 
-        supermarket dmart = new supermarket("Dmart", 1455, "RR Nagar");
+        supermarket dmart = new supermarket("Dmart", 1455, "RR Nagar"); // Object creation
         System.out.println(dmart.company);
         System.out.println(dmart.share);
         System.out.println(dmart.location);
@@ -17,6 +17,15 @@ public class Lab_160_Merchant_example {
         System.out.println("-------------------------------------------------");
         supermarket more = new supermarket();
 
+        System.out.println("-------------------------------------------------");
+        dmart.display();
+        reliance.display();
+        more.display();
+
+        System.out.println("-------------------------------------------------");
+        int share_prc = dmart.giveMeShare();
+        System.out.println(share_prc);
+
 
     }
 }
@@ -26,13 +35,21 @@ class supermarket {
     int share;
     String location;
 
-    supermarket(String company_name, int share_price, String location_in) {
+    supermarket(String company_name, int share_price, String location_in) { // Parameterized constructor
         this.company = company_name;
         this.share = share_price;
         this.location = location_in;
     }
 
-    supermarket() {
+    supermarket() {  // Default constructor
         System.out.println("Am the default constructor!!!!!!!");
+    }
+
+    void display() {  // Method creation
+        System.out.println(this.company + " - " + this.share + " - " + this.location);
+    }
+
+    int giveMeShare() {
+        return this.share;
     }
 }
