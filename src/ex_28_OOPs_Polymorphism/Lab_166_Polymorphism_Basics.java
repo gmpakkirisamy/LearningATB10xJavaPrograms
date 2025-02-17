@@ -16,4 +16,7 @@ public class Lab_166_Polymorphism_Basics {
     //          different in parameter can be called as method overloading
 
     //2. Method overriding
+
+                // Inheritance is required for method overriding
+                // Basically child class will override the parent class method.
 }
