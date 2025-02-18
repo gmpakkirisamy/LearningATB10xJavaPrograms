@@ -12,7 +12,7 @@ public class Lab_181_Abstraction_Basics {
 
     // If method is abstract then class also should be abstract
     // If this abstract class is extended by the child, then child should override this method inside the abstract class.
-    // If you think that parent class method should be override in the child class means you have to use the abstract for this case.
+    // If you think that parent class method should be overridden in the child class means you have to use the abstract for this case.
 
     // Refer - Lab_182_Vehicle_abstract - For more detailed understanding
 
