@@ -13,6 +13,6 @@ public class Lab_172_Encapsulation_Basics {
 
     //PUBLIC - Any one can access
     //PRIVATE - Only class can access
-    //PROTECTED -
+    //PROTECTED -Only can access with in the folder. Outside the folder cannot be accessed.
 
 }
