@@ -1,6 +1,9 @@
 package Java_OOPs.ex_35_ENUM;
 
 public class Lab_194_Enum_colors {
+    public static void main(String[] args) {
+        System.out.println(Colors.BLUE.getHexCode());
+    }
 }
 
 enum Colors {
