@@ -6,7 +6,7 @@ public class Lab_195_Wrapper_Class_Basic {
 
         //Since java dnt like primitive data types
         // We will be using the wrapper classes for respective types. These are called as class
-        //Character, Long, Short, Double, Float
+        //Character, Long, Short, Double, Float, Byte
         Integer a1 =10;
         System.out.println(Integer.MAX_VALUE);
         System.out.println(Integer.MIN_VALUE);
