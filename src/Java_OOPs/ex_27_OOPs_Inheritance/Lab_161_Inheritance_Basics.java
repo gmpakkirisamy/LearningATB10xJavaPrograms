@@ -14,7 +14,7 @@ public class Lab_161_Inheritance_Basics {
 
     //MULTIPLE INHERITANCE
 
-    // Multiple inheritance is not possible in java
+    // Multiple inheritance is not directly supported by java
     // Which means Son cannot extend from father as well as mother at time
     // THis is called diamond problem in java.
     // Java is not allowed this inheritance.
