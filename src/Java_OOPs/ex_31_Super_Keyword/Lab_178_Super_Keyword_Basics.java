@@ -1,7 +1,7 @@
 package Java_OOPs.ex_31_Super_Keyword;
 
 public class Lab_178_Super_Keyword_Basics {
-    //Super keyword in java is a reference variable that allows access to the method, variables and constructor of parent.
+    //Super keyword in java is a reference variable that allows access to the method, variables and constructor of parent class.
     //use of super with variables
     //use of super with methods
     //use of super with constructors
