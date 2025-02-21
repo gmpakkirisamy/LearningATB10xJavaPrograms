@@ -2,8 +2,11 @@ package Java_OOPs.ex_29_OOPs_Encapsulation;
 
 public class Lab_172_Encapsulation_Basics {
     //ENCAPSULATION
-        //Java that bundling data(attributes) and methods (functions) that operate on that data into single unit,
+    //Binding the data member and methods into a single entity.
+    //Java that bundling data(attributes) and methods (functions) that operate on that data into single unit,
         //typically called as a class
+        // It also restricts direct access to some of the object's components,
+        // which is a means of preventing accidental interference and misuse of the data.
         //Encapsulation says that you should hide the data variables
         //Other words - Data variables -> Instance Variables -> They should not be accessed by outside without the methods.
             //Data members are private in nature

@@ -30,6 +30,7 @@ class wlogin {
 }
 
 class goodEncapLogin {
+
     private String username;           // You have to create the username and password with private for encapsulation.
     private String password;
 
