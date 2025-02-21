@@ -10,7 +10,7 @@ public class Lab_184_InterfaceImplement_Basics {
 //INTERFACES
 //Interfaces provide complete abstraction, contains only method declaration without implementations.
 // We cannot create concrete or complete method in it.
-// We can create concrete or complete method in it using default method.
+// We can create concrete or complete method in it using default method only.
 //Implements can be used only in case of interfaces.
 // We can do multiple inheritance using the implements and Interface.
 
