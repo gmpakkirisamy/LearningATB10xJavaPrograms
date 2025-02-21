@@ -2,6 +2,8 @@ package Java_OOPs.ex_38_Feb_20_Excercise;
 
 public class Lab_211_Encapsulation {
     public static void main(String[] args) {
+        //Encapsulation is the practice of bundling data (variables) and methods (functions) that operate on the data
+        // into a single unit (class) and restricting access to some of the object's components.
         // In java encapsulation is the process of binding the data member and methods in to single class
         //Three way we can achieve this
         //PUBLIC

@@ -8,8 +8,8 @@ public class Lab_182_Vehicle_abstract {
 
 abstract class Vehicle {   // Class also to be abstract
     abstract void speed(); // Method also to be abstract
-//     {                                  // If it is the abstract method,then it should not have body, which means that it can be override by its child
-                                          // Strictly if they used by their childs.
+//     {                                  // If it is the abstract method,then it should not have body, which means that it can be overridden by its child
+                                          // Strictly if they used by their children.
 //        System.out.println("25KM/H");
 //    }
 

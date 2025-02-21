@@ -24,7 +24,7 @@ public class Lab_171_PG_Guest {
 
 class pgAdmin {
     void food(){
-        System.out.println("We will server Chitra Anna!");
+        System.out.println("We will serve Chitra Anna!");
     }
 }
 
