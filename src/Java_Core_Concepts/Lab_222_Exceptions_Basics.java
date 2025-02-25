@@ -15,4 +15,20 @@ public class Lab_222_Exceptions_Basics {
     // Refer : Lab_223_Exception_Unchecked
     //2. Unchecked - JVM does not know it , this will come to know at the run time.
     //Refer : Lab_224_Exception_Checked
+
+    //HOW TO HANDLE
+    //1. Try and Catch
+    //2. Throws
+
+    // Also to learn
+        //Try and Catch
+        //Try and Multiple Catch
+        //Throw vs Throw
+        //Custom Exceptions
+
+    //Program Execution in case of Exception
+
+    // In Execution, MT(Main Thread will be responsible for calling the main function)
+    //If any issues main program communicate with the main thread and main thread communicate with the JVM.
+    // Then JVM will terminate the program
 }
