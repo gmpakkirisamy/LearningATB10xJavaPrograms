@@ -1,4 +1,4 @@
-package Java_Core_Concepts;
+package Java_Core_Concepts.ex_40_Exceptions;
 
 public class Lab_228_try_catch_finally {
     public static void main(String[] args) {

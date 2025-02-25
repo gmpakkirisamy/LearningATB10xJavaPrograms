@@ -1,6 +1,4 @@
-package Java_Core_Concepts;
-
-import java.io.FileInputStream;
+package Java_Core_Concepts.ex_40_Exceptions;
 
 public class Lab_224_Exception_Checked {
     public static void main(String[] args) {

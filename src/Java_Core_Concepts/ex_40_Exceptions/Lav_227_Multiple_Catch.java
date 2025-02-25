@@ -1,4 +1,4 @@
-package Java_Core_Concepts;
+package Java_Core_Concepts.ex_40_Exceptions;
 
 public class Lav_227_Multiple_Catch {
     public static void main(String[] args) {
