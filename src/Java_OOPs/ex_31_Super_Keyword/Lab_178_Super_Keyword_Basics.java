@@ -29,7 +29,7 @@ class father2 {
 class son extends father2 {
     son(){
         super();
-    }
+    }  // If fathers constructor need to be called
     void sonHome() {
         super.home();   // In the son method, calling the father method using the super key word
         System.out.println(super.gold); // In the son method, calling the father variable using the super key word

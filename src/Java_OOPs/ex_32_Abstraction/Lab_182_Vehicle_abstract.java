@@ -9,11 +9,11 @@ public class Lab_182_Vehicle_abstract {
 abstract class Vehicle {   // Class also to be abstract
     abstract void speed(); // Method also to be abstract
 //     {                                  // If it is the abstract method,then it should not have body, which means that it can be overridden by its child
-                                          // Strictly if they used by their children.
+    // Strictly if they used by their children.
 //        System.out.println("25KM/H");
 //    }
 
-    void brand () {              // You can create non abstract method also
+    void brand() {              // You can create non abstract method also
         System.out.println("Any Brand");
     }
 
@@ -28,7 +28,7 @@ class Bike extends Vehicle {  // Since this class extend the vehicle class, so n
     }
 }
 
-class car extends  Vehicle {  // Since this class extend the vehicle class, so now its forcefully to use the speed() method.
+class car extends Vehicle {  // Since this class extend the vehicle class, so now its forcefully to use the speed() method.
 
     @Override
     void speed() {
