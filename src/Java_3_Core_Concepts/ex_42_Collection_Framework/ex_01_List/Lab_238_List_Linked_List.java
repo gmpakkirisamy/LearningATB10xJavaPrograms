@@ -1,6 +1,5 @@
-package Java_3_Core_Concepts.ex_42_Collection_Framework;
+package Java_3_Core_Concepts.ex_42_Collection_Framework.ex_01_List;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
