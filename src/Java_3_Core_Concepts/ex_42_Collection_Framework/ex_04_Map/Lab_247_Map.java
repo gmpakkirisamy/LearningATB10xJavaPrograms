@@ -23,9 +23,18 @@ public class Lab_247_Map {
         m1.put("RollNo","1");
         m1.put("PhNo","9245250007");
         m1.put("Name","RRR");
-        m1.put(null,"dfd");//one null will be allowed
-        m1.put(null,"mnb");
+        //m1.put(null,"dfd");//one null will be allowed
+       // m1.put(null,"mnb");
         System.out.println(m1);
+        System.out.println(m1.isEmpty());
+        System.out.println(m1.size());
+        System.out.println(m1.containsKey("Name"));
+        System.out.println(m1.containsValue("mnb"));
+
+        //HOW TO ITERATE THE MAP
+//        for(Map.Entry<String, String> item : m1.entrySet()) {
+//            System.out.println(item.getKey() +" -> " +item.getValue());
+//        }
 
         Map mm1 = new LinkedHashMap();
         System.out.println("Linkehash Map");
