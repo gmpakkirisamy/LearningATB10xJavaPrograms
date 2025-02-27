@@ -17,10 +17,13 @@ public class Lab_236_Collection_Framework_Basics {
 
     //COLLECTION (This is interface)
         //1. LIST -> This will keep duplicates
-            //Arraylist ->Dynamic in Size, They are stored like arrays, continuous memory, its a growable array
+            //Arraylist ->Dynamic in Size, They are stored like arrays, continuous memory, it's a growable array
                         //Get element easy,inserting, delete is costly
+
             //Linkedlist > Doubly linked list, Insert, deletion is easy but finding the element is difficult
+
             //Stack > Last In First Out (LIFO Concept)
+
             //Vector . Similar to Arraylist (Old Legacy)
 
         //2. SET-> This will not keep duplicates
