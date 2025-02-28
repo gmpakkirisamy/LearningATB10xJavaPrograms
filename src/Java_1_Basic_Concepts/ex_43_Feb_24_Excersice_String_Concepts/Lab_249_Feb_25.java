@@ -24,7 +24,7 @@ public class Lab_249_Feb_25 {
 
         //5) What happens when you combine two strings using the + operator in Java? For example, if you have two strings like "Hello" and "World",
         // what will happen if you write "Hello" + "World"?
-            //This will concatnace two string and print as "HelloWorld"
+            //This will concatenate two string and print as "HelloWorld"
 
     }
 }
