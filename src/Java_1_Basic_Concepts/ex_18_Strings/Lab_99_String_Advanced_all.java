@@ -19,13 +19,13 @@ public class Lab_99_String_Advanced_all {
         System.out.println(name.contains("dsamy")); // Checks the specific string is present or not. gives true or false
 
         //5. equals()
-        System.out.println(name.equals("Love")); // It will check the string with orginal string true or false
+        System.out.println(name.equals("Love")); // It will check the string with original string true or false
 
         //6. equalsIgnoreCase()
         System.out.println(name.equalsIgnoreCase("pakkirisamy")); // It will ignore the upper case or lower case but compare the content
 
         //7. indexoF()
-        System.out.println(name.indexOf("a")); // It will locate the index of the character and always find the first one occurence.
+        System.out.println(name.indexOf("a")); // It will locate the index of the character and always find the first one occurrence.
 
         //8. replace()
         System.out.println(name.replace('a','A')); // it will replace all the character with the mentioned new character.
@@ -33,14 +33,16 @@ public class Lab_99_String_Advanced_all {
         //9. split()
         String name2 = "Pakkiri Samy";
 
-        String[] split = name2.split("a"); // Based on the space/a/any letters it will split the word. String[] -is an array to store.
+
+        System.out.println("Split String");
+        String[] split = name2.split("i"); // Based on the space/a/any letters it will split the word. String[] -is an array to store.
         System.out.println(split[0]);
         System.out.println(split[1]);
         System.out.println(split[2]);
 
         //10. substring()   - //Extracts a portion of the string
         String anotherPalindrome = " Pakkiri. O roar again!      ";
-        String samy = anotherPalindrome.substring(15,21); // It will take the string from speficed location as mentioned as index. Last index will be -1 means 21-1 is 20
+        String samy = anotherPalindrome.substring(15,21); // It will take the string from specified location as mentioned as index. Last index will be -1 means 21-1 is 20
         System.out.println(samy);
 
         //11. toLowerCase()

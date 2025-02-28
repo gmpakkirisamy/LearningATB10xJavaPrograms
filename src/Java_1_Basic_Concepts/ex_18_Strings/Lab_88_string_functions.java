@@ -9,7 +9,7 @@ public class Lab_88_string_functions {
         String s2 = s1.substring(7,11); // Substring will print the letter between the index
         System.out.println(s2);
 
-        String s3 = s1.concat("DurgaDevi"); // I will concatanate both the strings
+        String s3 = s1.concat("DurgaDevi"); // I will concatenate both the strings
         System.out.println(s3);
     }
 }
