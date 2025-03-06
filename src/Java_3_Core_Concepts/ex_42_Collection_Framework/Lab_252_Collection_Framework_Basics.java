@@ -1,6 +1,6 @@
 package Java_3_Core_Concepts.ex_42_Collection_Framework;
 
-public class Lab_247_Collection_Framework_Basics {
+public class Lab_252_Collection_Framework_Basics {
 
     // Problem with Array and why we are going to collection frame work
     Integer [] arr = new Integer[10];
