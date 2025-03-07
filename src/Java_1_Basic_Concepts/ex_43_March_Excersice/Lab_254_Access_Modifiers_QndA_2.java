@@ -11,6 +11,17 @@ public class Lab_254_Access_Modifiers_QndA_2 {
         //2) Write a program to demonstrate the use of public, private, protected, and default access modifiers.
         //Please refer lab program number.
 
+        //3) Can we make a constructor private? If yes, in what situations would we do that?
+        //Yes, private constructors are used to create immutable classes, ensuring that instances cannot be modified after creation.
+
+        //4)  If you don’t specify public, private, or protected for a method or variable, what happens?
+        //If you don't specify public, private, or protected for a method or variable in Java, it gets the default
+        // (package-private) access level. This means the method or variable is accessible only within the same package.
+
+        //5) What happens when you use final with public, private or protected ?
+        // Behaviour of public, private or protected will be same but the value assigned will be only once.
+        //Final Methods: A public final method can be accessed from anywhere but cannot be overridden by subclasses.
+        //Final Classes: A public final class can be accessed from anywhere but cannot be subclassed
 
 
     }

@@ -18,5 +18,11 @@ class checking3 extends Lab_255_Private_Public_Protected_Default {
                              // can be accessed by any other class in the same package, but not by classes in different packages.
 
         //check2.display(); - This is the private which we cannot access outside of its class.
+
+
+    }
+
+    class protectedCheck {
+
     }
 }
