@@ -17,6 +17,17 @@ public class Lab_253_Access_Modifiers_QndA_1 {
         //inside the class
 
         //3) What is the difference between default and protected access modifiers?
+        //PROTECTED - Accessible within the same package and by subclasses (even if they are in different packages).
+        //DEFAULT - Package-private (accessible only within the same package).
+
+        //4) Can a subclass access a private member of its superclass?
+        //No, a subclass cannot directly access private members (fields or methods) of its superclass.
+        // Private members are only accessible within the class they are declared in.
+
+        //5) What is the default access modifier in Java, and where is it applicable?
+        //In Java, the default access modifier is package-private (also known as default).
+        // This means that if you don't explicitly specify an access modifier for a class, method, or variable,
+        // it will be accessible only within the same package.
 
 
     }
