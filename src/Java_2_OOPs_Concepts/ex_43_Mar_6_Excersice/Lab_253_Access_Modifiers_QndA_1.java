@@ -1,4 +1,4 @@
-package Java_1_Basic_Concepts.ex_43_March_Excersice;
+package Java_2_OOPs_Concepts.ex_43_Mar_6_Excersice;
 
 public class Lab_253_Access_Modifiers_QndA_1 {
     public static void main(String[] args) {

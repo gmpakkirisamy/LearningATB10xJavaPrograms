@@ -1,4 +1,4 @@
-package Java_1_Basic_Concepts.ex_43_March_Excersice.Checking_Folder_1;
+package Java_2_OOPs_Concepts.ex_43_Mar_6_Excersice.Checking_Folder_1;
 
 public class Lab_255_Private_Public_Protected_Default {
     public static void main(String[] args) {
