@@ -15,7 +15,7 @@ public class Lab_233_throw_example_2 {
 
     public static void main(String[] args) {
 
-        validate_age(17); // Since this is the static method. This is available in class loader. So we can give input directly without
+        validate_age(18); // Since this is the static method. This is available in class loader. So we can give input directly without
         //creating the object reference
 
     }
